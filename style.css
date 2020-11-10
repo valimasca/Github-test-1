@@ -1,0 +1,80 @@
+body {
+    font-family: 'Trebuchet MS';
+}
+
+header{
+    text-align: center;
+    background-color: lightblue;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#top {
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+.bottom {
+    text-align: center;
+    border: 1px solid black;
+}
+
+.background {
+    background-color: lightgrey;
+}
+
+div p {
+    color: green;
+}
+
+#paraOne{
+    color: white;
+    background-color: #000000;
+    text-align: right;
+}
+
+.paraTwo {
+    color: purple;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+form{
+    border: 5px solid magenta;
+    border-radius: 10px;
+    margin: 50px ;
+    padding: 30px;
+    clear: both;
+}
+
+label, button {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+}
+
+.linedUp {
+    display: inline;
+}
+
+.float {
+    float: left;
+    width: 45%;
+    padding: 10px;
+}
+
+footer {
+    background-color: lightsalmon;
+    text-align: center;
+    color: blue;
+}
+
+#footer {
+    color: blue;
+}
